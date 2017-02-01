@@ -1,0 +1,14 @@
+gems:
+- jekyll-assets
+
+styles:
+  background_color: 'white'
+
+assets:
+  features:
+    liquid: true
+    integrity: true
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
